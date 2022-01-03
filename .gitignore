@@ -62,3 +62,9 @@
 
 */target/
 */assignment.sbt
+*/project/
+*/project/target/
+*/project/project/target/
+*/project/project/project/target/
+*/build-sbt/
+**/*.iml
